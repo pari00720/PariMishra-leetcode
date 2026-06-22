@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/pari00720/PariMishra/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/pari00720/PariMishra/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/pari00720/PariMishra/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/pari00720/PariMishra/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/pari00720/PariMishra/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/pari00720/PariMishra/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/pari00720/PariMishra/tree/master/0509-fibonacci-number) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/pari00720/PariMishra/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/pari00720/PariMishra/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/pari00720/PariMishra/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/pari00720/PariMishra/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pari00720/PariMishra/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/pari00720/PariMishra/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/pari00720/PariMishra/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/pari00720/PariMishra/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/pari00720/PariMishra/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
@@ -68,11 +71,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/pari00720/PariMishra/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/pari00720/PariMishra/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pari00720/PariMishra/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/pari00720/PariMishra/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/pari00720/PariMishra/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/pari00720/PariMishra/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/pari00720/PariMishra/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/pari00720/PariMishra/tree/master/0704-binary-search) |
 ## Dynamic Programming
 |  |
@@ -89,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/pari00720/PariMishra/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pari00720/PariMishra/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/pari00720/PariMishra/tree/master/0268-missing-number) |
 ## Stack
 |  |
 | ------- |
