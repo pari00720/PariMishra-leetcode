@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/pari00720/PariMishra/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/pari00720/PariMishra/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pari00720/PariMishra/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pari00720/PariMishra/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/pari00720/PariMishra/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/pari00720/PariMishra/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/pari00720/PariMishra/tree/master/0189-rotate-array) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/pari00720/PariMishra/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pari00720/PariMishra/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pari00720/PariMishra/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0509-fibonacci-number](https://github.com/pari00720/PariMishra/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pari00720/PariMishra/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/pari00720/PariMishra/tree/master/0316-remove-duplicate-letters) |
 ## Monotonic Stack
 |  |
