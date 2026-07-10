@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/pari00720/PariMishra/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pari00720/PariMishra/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/pari00720/PariMishra/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/pari00720/PariMishra/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/pari00720/PariMishra/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/pari00720/PariMishra/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/pari00720/PariMishra/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/pari00720/PariMishra/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/pari00720/PariMishra/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/pari00720/PariMishra/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pari00720/PariMishra/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/pari00720/PariMishra/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/pari00720/PariMishra/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pari00720/PariMishra/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/pari00720/PariMishra/tree/master/0316-remove-duplicate-letters) |
