@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/pari00720/PariMishra/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/pari00720/PariMishra/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/pari00720/PariMishra/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/pari00720/PariMishra/tree/master/0043-multiply-strings) |
 | [0069-sqrtx](https://github.com/pari00720/PariMishra/tree/master/0069-sqrtx) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/pari00720/PariMishra/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/pari00720/PariMishra/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/pari00720/PariMishra/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pari00720/PariMishra/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pari00720/PariMishra/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/pari00720/PariMishra/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/pari00720/PariMishra/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/pari00720/PariMishra/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pari00720/PariMishra/tree/master/0217-contains-duplicate) |
