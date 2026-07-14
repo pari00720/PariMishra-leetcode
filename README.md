@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pari00720/PariMishra/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/pari00720/PariMishra/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/pari00720/PariMishra/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/pari00720/PariMishra/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/pari00720/PariMishra/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/pari00720/PariMishra/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/pari00720/PariMishra/tree/master/0242-valid-anagram) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/pari00720/PariMishra/tree/master/0043-multiply-strings) |
+| [0068-text-justification](https://github.com/pari00720/PariMishra/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/pari00720/PariMishra/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/pari00720/PariMishra/tree/master/0412-fizz-buzz) |
 ## Number Theory
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/pari00720/PariMishra/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/pari00720/PariMishra/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/pari00720/PariMishra/tree/master/0055-jump-game) |
+| [0068-text-justification](https://github.com/pari00720/PariMishra/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/pari00720/PariMishra/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/pari00720/PariMishra/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/pari00720/PariMishra/tree/master/0088-merge-sorted-array) |
