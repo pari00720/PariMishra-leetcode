@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/pari00720/PariMishra/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/pari00720/PariMishra/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/pari00720/PariMishra/tree/master/0316-remove-duplicate-letters) |
+| [0383-ransom-note](https://github.com/pari00720/PariMishra/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/pari00720/PariMishra/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/pari00720/PariMishra/tree/master/0412-fizz-buzz) |
 ## Simulation
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/pari00720/PariMishra/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pari00720/PariMishra/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/pari00720/PariMishra/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/pari00720/PariMishra/tree/master/0383-ransom-note) |
 ## Stack
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pari00720/PariMishra/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/pari00720/PariMishra/tree/master/0383-ransom-note) |
 ## Prefix Sum
 |  |
 | ------- |
